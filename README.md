@@ -14,5 +14,5 @@ Instructions
 
 ##Aufgabe
 Status zu erfragen  benutz man git status
-##Aufgabe
+## Aufgabe
 Die History abzufragen benutzen wir git log
